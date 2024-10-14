@@ -1,0 +1,27 @@
+.btn{
+    padding: 0.5rem;
+    border-radius: 5px;
+    border-color: skyblue;
+    width: 10rem;
+    font-size: larger;
+    font-weight: 500;
+    cursor: pointer;
+    margin: 2rem;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.score{
+    font-size: larger;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 500;
+    margin-top: 10rem;
+}
